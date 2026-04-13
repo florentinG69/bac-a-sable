@@ -59,7 +59,7 @@ a{
 }
 
 .header{
-    position: sticky;
+    position: fixed;
     top: 0;
 }
 
@@ -81,6 +81,3 @@ a{
     position: relative;  
 }
 
-.notif{
-
-}
